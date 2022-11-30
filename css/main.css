@@ -52,18 +52,6 @@
   border-radius: 5px;
 }
 
-.container1 .box .dream1{
-  display: flex;
-  flex-direction: column;
-  width: 32.5%;
-}
-
-.container1 .box .dream1 img{
-  width: 100%;
-  padding-bottom: 15px;
-  border-radius: 5px;
-}
-
 .container1 .btn{
   margin: 40px 0 70px 0;
   background: #222;
@@ -79,7 +67,7 @@
  letter-spacing: 3px;
 }
 
-@media only screen and (max-width: 1081px){
+@media only screen and (max-width: 1080px){
     .container1 .box{
    flex-direction: column;
   }
@@ -88,14 +76,12 @@
   width: 100%;
   margin: 0px 5px 0px 5px;
 }
-}
 
-
-@media only screen and (max-width: 643px){
 .container1 .heading{
   width: 100%;
 }
 .container1 .heading h3{
-  font-size: 1em;
+  font-size: 2em;
 }
+
 }

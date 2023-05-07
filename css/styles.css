@@ -11611,9 +11611,11 @@ html {
 }
 #mainNav{
 	height: 100px;
+	transition: height 0.5s;
 }
 #mainNav.navbar-shrink{
 	height: 76px;
+	transition: height 0.5s;
 }
 .blok{
 	margin: -1px;

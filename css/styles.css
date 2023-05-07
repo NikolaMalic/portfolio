@@ -11465,9 +11465,11 @@ html {
   line-height: 2.75rem;
 }
 .masthead .masthead-subheading {
-  border-radius: 20px;
-  background-color: rgba(0,0,0,0.1);
-  font-size: 1.25rem;
+  border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+    margin: auto;
+    width: 83%;
+    background-color: rgba(0,0,0,0.1);
 }
 .masthead .masthead-avatar {
   width: 19rem;
@@ -11484,9 +11486,10 @@ html {
     line-height: 3.5rem;
   }
   .masthead .masthead-subheading {
-	border-radius: 20px;
+    margin: auto;
+    width: 83%;
     background-color: rgba(0,0,0,0.1);
-    font-size: 1.5rem;
+    font-size: 1.7rem;
   }
 }
 .portfolio .portfolio-item {
@@ -11630,7 +11633,7 @@ html {
     font-size: 2.5rem;
 }
 .masthead .masthead-subheading {
-    font-size: 1.2rem;
+    font-size: 1.3rem;
 }
 .sites {
     display: inline-table;

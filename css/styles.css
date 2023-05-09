@@ -11611,7 +11611,7 @@ html {
 }
 #mainNav{
 	height: 100px;
-	transition: height 0.5s;
+    transition: height 0.5s;
 }
 #mainNav.navbar-shrink{
 	height: 76px;

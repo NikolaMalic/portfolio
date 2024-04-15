@@ -11586,10 +11586,6 @@ html {
 .site{
 	width: 100%;
 	border-radius: 20px;
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
-    transition: filter 0.3s, box-shadow 0.3s;
-    -webkit-transition: filter 0.3s, -webkit-filter 0.3s, box-shadow 0.3s;
 }
 .site:hover {
     -webkit-filter: none;

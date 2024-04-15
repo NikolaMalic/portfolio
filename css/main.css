@@ -17,25 +17,26 @@
   float: right;
   width: 100%;
   color: #fff;
-  background: linear-gradient(131deg, rgb(0 111 101) 12%, rgb(0 0 0) 100%);
+  background: #1e1e1e;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
-  padding: 150px 20px 0 20px;
+  padding: 150px 80px 0 80px;
 }
 .galerija .heading{
   width: 50%;
   padding-bottom: 50px;
 }
 .galerija .heading h3{
-  font-family: Poppins;
-  font-size: 3rem;
-  font-weight: bolder;
-  padding-bottom: 10px;
-  border-bottom: 4px solid #ececec;
-  --bs-text-opacity: 1;
-  color: #1e1e1e !important;
+	font-family: 'Montserrat';
+    text-shadow: 1px 1px 4px #0000008c;
+    font-size: 3rem;
+    font-weight: bolder;
+    padding-bottom: 10px;
+    border-bottom: 4px solid #0c9b83;
+    --bs-text-opacity: 1;
+    color: #ffffff !important;
 }
 .galerija .heading h3 span{
   font-weight: 100;
@@ -51,9 +52,10 @@
   width: 32.5%;
 }
 .galerija .box .dream img{
-  width: 100%;
-  padding-bottom: 15px;
-  border-radius: 5px;
+    width: 100%;
+    margin-bottom: 5%;
+    border-radius: 20px;
+    box-shadow: 1px 1px 4px black;
 }
 .galerija .btn{
   margin: 40px 0 70px 0;
@@ -178,7 +180,7 @@
    flex-direction: column;
 }
 .galerija{
-	padding: 150px 5% 0 2%;
+	padding: 150px 8% 0 5%;
 }
 .galerija .box .dream{
   width: 100%;
@@ -186,12 +188,17 @@
 }
 
 .galerija .heading{
-  width: 100%;
+  width: 93%;
 }
 .galerija .heading h3{
-  font-size: 2em;
+    font-size: 40px;
 }
-
+.galerija .heading h3{
+    padding-bottom: 5%;
+}
+.galerija .box .dream img{
+    margin-bottom: 7%;
+}
 /*.container2 a{
 	font-size: 1.25em;
 }

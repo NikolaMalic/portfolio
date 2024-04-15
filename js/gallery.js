@@ -1,7 +1,7 @@
 var d = 1;
-var i = 0;
-var c = 0;
-var k = 0;
+var i = 1;
+var c = 1;
+var k = 1;
 function first() {
 	if(!d){
 		wallpapers.style.display = "inline";

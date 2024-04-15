@@ -11536,7 +11536,8 @@ html {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background: linear-gradient(36deg, rgba(9,121,65,1) 12%, rgba(0,163,196,1) 100%);
+  background-image: url(../assets/images/Gradient.webp);
+  background-size: cover;
   color: #fff;
 }
 

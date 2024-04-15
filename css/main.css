@@ -106,7 +106,7 @@
 #btn2{
 	display: block;
 	padding: 7px;
-	background-color: #1e1e1e;
+	background-color: rgb(0 150 136 / 50%);
 	font-weight: 400;
 	line-height: 1.5;
 	color: #f8f9fa;
@@ -122,7 +122,7 @@
 #btn3{
 	display: block;
 	padding: 7px;
-	background-color: #1e1e1e;
+	background-color: rgb(0 150 136 / 50%);
 	font-weight: 400;
 	line-height: 1.5;
 	color: #f8f9fa;
@@ -138,7 +138,7 @@
 #btn4{
 	display: block;
 	padding: 7px;
-	background-color: #1e1e1e;
+	background-color: rgb(0 150 136 / 50%);
 	font-weight: 400;
 	line-height: 1.5;
 	color: #f8f9fa;
